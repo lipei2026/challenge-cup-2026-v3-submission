@@ -3,3 +3,6 @@ __pycache__/
 .venv/
 .env
 outputs/
+evaluation_outputs/
+.pytest_cache/
+*.log
